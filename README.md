@@ -4,11 +4,16 @@ Before installing RabbitMQ, ensure that its dependencies are met. Additionally, 
 
 -> Install RabbitMQ from the official website. Ensure that you download the appropriate version for your operating system.
 
+-> Install MongoDB from their official website. Ensure that you download the appropriate version for your operating system.
+
 ## 2. Starting RabbitMQ Server
 
 ### Set Up System Path:
 
 Add the RabbitMQ directory to your system path. This directory is typically located at `C:\Program Files\RabbitMQ Server\rabbitmq_server-3.13.0\sbin`.
+
+Add the mongodb deirectory to your system path. This directoty is typically located 
+at `C:\Users\adacl\AppData\Local\Programs\mongosh\`.
 
 ### Starting RabbitMQ Server:
 
